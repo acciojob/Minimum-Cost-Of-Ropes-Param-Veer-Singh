@@ -18,7 +18,5 @@ function calculateMinCost() {
 
     // console.log(totalCost);
 	document.getElementById("result").textContent = totalCost;
-    return totalCost;
-    
   }  
   
